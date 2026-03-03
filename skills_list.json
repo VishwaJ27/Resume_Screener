@@ -1,0 +1,27 @@
+{
+  "skills": [
+    "Python", "Java", "JavaScript", "TypeScript", "C++", "C#", "Go", "Rust", "PHP", "Swift",
+    "SQL", "HTML", "CSS", "Bash", "R", "MATLAB", "Scala",
+
+    "React", "Angular", "Vue.js", "Node.js", "Express.js", "Django", "Flask", "FastAPI",
+    "Spring Boot", "Laravel", "Next.js", "Redux",
+
+    "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Data Analysis",
+    "Data Science", "TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV",
+    "Pandas", "NumPy", "Matplotlib", "Seaborn", "Hugging Face",
+
+    "Docker", "Kubernetes", "AWS", "GCP", "Azure", "CI/CD", "Jenkins", "GitHub Actions",
+    "Terraform", "Ansible", "Linux", "Git", "GitHub", "Nginx",
+
+    "MongoDB", "PostgreSQL", "MySQL", "SQLite", "Redis", "Elasticsearch",
+    "Firebase", "DynamoDB", "Oracle",
+
+    "REST API", "GraphQL", "Microservices", "System Design",
+    "Agile", "Scrum", "JIRA", "Confluence",
+
+    "Power BI", "Tableau", "Excel", "Spark", "Hadoop", "Airflow", "Kafka",
+
+    "Communication", "Leadership", "Teamwork", "Problem Solving",
+    "Critical Thinking", "Time Management"
+  ]
+}
